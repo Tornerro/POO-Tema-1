@@ -1,7 +1,7 @@
 # POO-Tema-1
 
 Rusu Marius 144
-
+--Memory leak :(
 Tema 5. Clasa ”Matrice_Complexa” 
 
 	- clasa este prietena a clasei Numar_Complex definita în Tema 1;
